@@ -1,0 +1,69 @@
+@charset "ISO-8859-1";\
+
+.shadow {
+  -webkit-box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.05) !important;
+  -moz-box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.05) !important;
+  box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.05) !important;
+}
+
+.rounded {
+  -webkit-border-radius: 3px !important;
+  -moz-border-radius: 3px !important;
+  border-radius: 3px !important;
+}
+
+.panel {
+  border: none;
+  position: relative;
+  -webkit-border-radius: 0px;
+  -moz-border-radius: 0px;
+  border-radius: 0px;
+  -webkit-box-shadow: none;
+  -moz-box-shadow: none;
+  box-shadow: none;
+}
+
+.panel-body{
+	padding: 20px;
+}
+
+.btn{
+    border-radius:0px;    
+}
+
+.profile-cover {
+  width: 100%;
+
+}
+
+.profile-cover .cover {
+  position: relative !important;;
+  border: 10px solid #FFFFFF !important;;
+    background:#ffffff !important;;
+}
+
+.profile-cover .cover .inner-cover {
+  overflow: hidden !important;;
+  height: auto !important;;
+}
+
+.profile-cover .cover .inner-cover .cover-menu-mobile {
+  position: absolute !important;;
+  top: 10px !important;;
+  right: 10px !important;;
+}
+
+.full-width {
+  top: 0; 
+  left: 0; 
+    
+  /* Preserve aspet ratio */
+  min-width: 100%;
+  min-height: 100%;
+}
+
+.img-circle{
+	width: 200px;
+	height: 200px;
+	border-radius: 50%;
+}
