@@ -51,3 +51,12 @@ Job Posting Page (For Admin)
 Send Email
 ![image](https://github.com/user-attachments/assets/c35f62f5-1a72-40b7-87a4-52c5669a3e49)
 
+How to Install
+1. Download the Source Code.
+2. Import in Spring Tool Suite 4.
+3. Connect with database.
+4. Set Properties
+5. Configure path and functionalities.
+6. Run as Spring Boot Project.
+
+   Thank You...
